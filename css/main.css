@@ -1,0 +1,53 @@
+/* body */
+body {
+	line-height: 2.3;
+	font-family: Verdana, sans-serif;
+	color: #666666;
+	font-size: 14px;
+}
+
+
+/* All Headers */
+h1 {
+	padding-top: 20px;
+	font-size: 48px;
+	color: #666;
+}
+
+
+h2 {
+	padding: 5px 0 20px 0;
+	color: #f07c17;
+	font-size: 24px;
+}
+
+
+/* Feature Box */
+.main-features {
+	margin-top: 35px;
+	border: 1px solid #ccc;
+}
+
+
+.feature-heading {
+	padding-left: 30px;
+	padding-bottom: 0;
+
+}
+
+
+.features {
+	padding: 18px 0 25px 22px;
+	font-size: 16px;
+}
+
+
+/* All Columns */
+.col-4 {
+	padding-top: 25px;
+}
+
+
+.col-7 {
+	padding-right: 80px;
+}
